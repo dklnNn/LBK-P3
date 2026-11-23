@@ -2,7 +2,6 @@
 
 **Etap:** M1 – Karta projektu · **Data aktualizacji:** 2026-11-23
 **Zakres wydania M1:** metryczka (0), mapa protokół → PsychoPy (2) oraz odstępstwa i pytania do LBK (14).
-**Uwaga:** tabela reguł adaptacji **v0** znajduje się w karcie projektu M1; implementacja i dokumentacja późniejszych etapów nie są częścią tego pakietu.
 
 ## 0. Metryczka
 - **Pakiet:** P3 – Obraz, ocena, pobudzenie (**do potwierdzenia przydziału na forum**).
